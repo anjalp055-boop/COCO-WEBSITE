@@ -1,0 +1,162 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav-iteams{
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    /* justify-content: center; */
+    text-align: center;
+
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+nav{
+    display: flex;
+    width: 700px;
+    /* height: 30px; */
+    padding: 20px;
+    /* justify-content: center; */
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    margin-left: 50px;
+}
+.image{
+    border-radius: 25px;
+}
+.sec2{
+    display: flex;
+    gap: 50px;
+}
+.sec11{
+    text-align: center;
+    margin-left: 50px;
+    margin-top:100px ;
+    padding: 50px;
+}
+button{
+    width: 300px;
+    padding: 15px;
+    border-radius: 25px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.image2{
+    border-radius: 20px;
+}
+
+
+
+.three{
+    display: flex;
+    margin-top: 50px;
+
+}
+.threeone{
+    margin-left:200px ;
+    background-color: rgb(164, 221, 221);
+   
+}
+
+.threetwo{
+    margin-left:50px ;
+    background-color: rgb(146, 226, 226);
+    
+}
+
+.imgone{
+    border-radius: 20px;
+}
+.imgtwo{
+    border-radius: 20px;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.hone{
+    text-align: center;
+}
+.htwo{
+    text-align: center;
+}
+
+.link1{
+    text-decoration: underline;
+    margin-left:50px;
+   
+}
+.sec4{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.sec41{
+    margin-left: 200px;
+    margin-top: 100px;
+    border-radius: 20px;
+}
+.sec42{
+    margin-left: 0px;
+    background-color: aquamarine;
+    padding: 80px;
+    padding-top: 60px;
+    border-radius: 20px;
+    padding-bottom: 150px;
+    
+}
+.btn2{
+    margin-left: 80px;
+
+}
+.yy{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 150px;
+    height: 150px;
+    gap: 50px;
+    
+    padding: 30px;
+    margin-left: 400px;
+}
+.aa{
+    background-color: brown;
+     padding: 30px;
+}
+.bb{
+    background-color: brown;
+     padding: 30px;
+}
+.cc{
+    background-color: brown;
+     padding: 30px;
+}
+.dd{
+    background-color: brown;
+     padding: 30px;
+}
+.ee{
+    background-color: brown;
+     padding: 30px;
+}
+.ff{
+    background-color: brown;
+     padding: 30px;
+}
+
+
+
+    
